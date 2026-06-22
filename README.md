@@ -1,15 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alejandro!;Full-Stack+Developer;Multiplatform+App+Dev;Learning+AI+%26+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Alejandro!;Full-Stack+Developer;AI+%26+Automation+Builder;Open+to+opportunities)](https://alejandrocorral.es)
 
 <p>
+  <a href="https://alejandrocorral.es" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-alejandrocorral.es-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/alejandro-corral-carrasco-8664b72a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alejandrocorral509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Jerez%20de%20la%20Frontera%2C%20ES-24292e?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 </div>
@@ -18,12 +20,13 @@
 
 ### About me
 
-I'm a **Full-Stack Developer** from Jerez de la Frontera, Spain, currently studying **DAM** (Multiplatform App Development) at ILERNA. I build web and mobile applications with a growing interest in **AI integration** and process automation.
+Full-Stack Developer from Jerez de la Frontera, Spain. I build web and mobile products from scratch — and right now I'm heavily focused on **AI integration and automation**: agents, LLMs, MCP servers and real-workflow automations.
 
-- Building [**FitTrack**](https://github.com/alejandrocorral509/FitTrackProyect) — Android fitness app with Kotlin & Firebase
-- Developed **Planify** — a full SaaS project management tool (React 18, Next.js, PostgreSQL, Docker)
-- Exploring **LLMs, AI APIs and automation**
-- Open to **junior opportunities** and collaborations
+- Shipped [**FitTrack**](https://github.com/alejandrocorral509/FitTrackProyect) — Android fitness app (Kotlin · Jetpack Compose · Firebase · MVVM)
+- Built **Planify** — SaaS project management with Kanban, real-time WebSockets & burndown analytics
+- Launched [**Nexus Store**](https://alejandrocorral509.github.io/nexus-store/) — Functional e-commerce (HTML/CSS/JS, localStorage)
+- Currently: **AI agents, Claude API, MCP Protocol & automation pipelines**
+- Open to **junior / mid opportunities** and interesting collaborations
 
 ---
 
@@ -46,32 +49,38 @@ I'm a **Full-Stack Developer** from Jerez de la Frontera, Spain, currently study
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI & Automation**
+
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-00d4ff?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**FitTrack**](https://github.com/alejandrocorral509/FitTrackProyect) | Android fitness app — routines, water, diet & rest tracking | Kotlin · Jetpack Compose · Firebase |
-| **Planify** | SaaS project management tool with Kanban, sprints & real-time analytics | React 18 · Next.js · PostgreSQL · Docker |
-| [**TFG Podcast Platform**](https://github.com/alejandrocorral509/TFGpodcast) | Podcast streaming & management platform | PHP · Node.js · MySQL |
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| [**FitTrack**](https://github.com/alejandrocorral509/FitTrackProyect) | Android fitness app — routines, hydration, diet & rest | Kotlin · Jetpack Compose · Firebase | [GitHub ↗](https://github.com/alejandrocorral509/FitTrackProyect) |
+| **Planify** | SaaS Kanban + real-time analytics + WebSockets | React 18 · Next.js · PostgreSQL · Docker | — |
+| [**Nexus Store**](https://alejandrocorral509.github.io/nexus-store/) | E-commerce funcional — cart, checkout, dark mode | HTML · CSS · JS | [Demo ↗](https://alejandrocorral509.github.io/nexus-store/) |
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrocorral509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocorral509&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandrocorral509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocorral509&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="165" />
 </p>
 
 ---
 
 <div align="center">
-  <i>Open to junior opportunities — let's build something great together.</i>
+  <a href="https://alejandrocorral.es">alejandrocorral.es</a> · Open to opportunities · Let's build something great.
 </div>
