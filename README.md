@@ -20,7 +20,7 @@ Ahora me estoy formando en **análisis de datos**: SQL, Power BI, Excel y Python
 **Desarrollo:** JavaScript · TypeScript · React · Node.js · PHP · Java · Kotlin · Jetpack Compose · HTML · CSS
 **Bases de datos:** SQL (PostgreSQL, MySQL, SQLite) · Firebase Firestore
 **En formación:** Power BI · Excel · Python (pandas)
-**Herramientas:** Git · GitHub
+**Herramientas:** Git · GitHub · Docker
 
 ---
 
