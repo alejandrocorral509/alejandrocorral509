@@ -1,10 +1,10 @@
 ## Hola, soy Alejandro 👋
 
-Desarrollador de software junior de **Jerez de la Frontera**. Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** y **Multiplataforma (DAM)**, con prácticas en desarrollo web (Crear&Co) y en automatización de procesos e IA (GF Publicidad).
+Desarrollador junior con IA de **Jerez de la Frontera**. Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** y **Multiplataforma (DAM)**.
 
-Ahora me estoy formando en **análisis de datos**: SQL, Power BI, Excel y Python. Lo documento día a día en [data-journey](https://github.com/alejandrocorral509/data-journey).
+Desarrollo software que integra **IA generativa**: modelos de lenguaje por API, servidores MCP y automatización de procesos. En mis prácticas en GF Publicidad desarrollé automatizaciones con IA (Claude API y MCP) y participé en la automatización de procesos de 7 empresas clientes. Programo a diario con asistentes de IA (Claude Code, ChatGPT, Gemini).
 
-📍 Busco mi primer puesto junior en desarrollo, consultoría tecnológica o datos · En remoto o en Jerez, Cádiz o Sevilla
+📍 Busco mi primer puesto como desarrollador junior · En remoto o en Sevilla o Málaga
 
 ---
 
@@ -12,15 +12,16 @@ Ahora me estoy formando en **análisis de datos**: SQL, Power BI, Excel y Python
 
 | Proyecto | Qué es | Tecnologías |
 |----------|--------|-------------|
-| [**FitTrack**](https://github.com/alejandrocorral509/FitTrackProyect) | App Android de fitness: rutinas, agua, dieta y estadísticas | Kotlin · Jetpack Compose · Firebase |
-| [**data-journey**](https://github.com/alejandrocorral509/data-journey) | Mi formación en análisis de datos, en público (en curso) | SQL · PostgreSQL · Power BI · Python |
+| [**UploadHub**](https://github.com/alejandrocorral509/uploadhub) | Plataforma de podcasts, rehecha con un agente de IA. Integración de IA preparada (Whisper + Claude), API REST, 138 tests y CI | Laravel 12 · PHP · MySQL |
+| [**FitTrack**](https://github.com/alejandrocorral509/FitTrackProyect) | App Android de entreno, nutrición e hidratación, con arquitectura MVVM y tests | Kotlin · Jetpack Compose · Firebase |
+| [**Demo VeriFactu**](https://alejandrocorral509.github.io/verifactu-demo/) | Huella encadenada de facturas y QR tributario según la AEAT | JavaScript · SHA-256 |
 
 ### Tecnologías
 
-**Desarrollo:** JavaScript · TypeScript · React · Node.js · PHP · Java · Kotlin · Jetpack Compose · HTML · CSS
-**Bases de datos:** SQL (PostgreSQL, MySQL, SQLite) · Firebase Firestore
-**En formación:** Power BI · Excel · Python (pandas)
-**Herramientas:** Git · GitHub · Docker
+**IA generativa:** integración de LLMs por API (Claude) · servidores MCP · Claude Code · ChatGPT · Gemini
+**Lenguajes:** PHP · Java · JavaScript · TypeScript · Kotlin · SQL
+**Frameworks:** Laravel · React · Node.js · API REST · Android (Jetpack Compose) · Firebase
+**Herramientas:** Git · GitHub · GitHub Actions · Docker
 
 ---
 
